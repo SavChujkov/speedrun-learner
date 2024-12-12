@@ -1,0 +1,6 @@
+.guides-containeer {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}

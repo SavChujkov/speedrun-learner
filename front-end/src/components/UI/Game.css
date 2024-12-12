@@ -1,0 +1,9 @@
+.game-element {
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+}
+
+.game-row-item {
+    width: 200px;
+}

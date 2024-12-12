@@ -1,0 +1,9 @@
+.guide-element {
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+}
+
+.guide-row-item {
+    width: 200px;
+}
